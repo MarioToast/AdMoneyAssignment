@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AdMoneyAssignment", "AdMoneyAssignment\AdMoneyAssignment.vcxproj", "{BF0F139E-E132-416A-8642-CD6F91B7F7AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF0F139E-E132-416A-8642-CD6F91B7F7AF}.Debug|x64.ActiveCfg = Debug|x64
+		{BF0F139E-E132-416A-8642-CD6F91B7F7AF}.Debug|x64.Build.0 = Debug|x64
+		{BF0F139E-E132-416A-8642-CD6F91B7F7AF}.Debug|x86.ActiveCfg = Debug|Win32
+		{BF0F139E-E132-416A-8642-CD6F91B7F7AF}.Debug|x86.Build.0 = Debug|Win32
+		{BF0F139E-E132-416A-8642-CD6F91B7F7AF}.Release|x64.ActiveCfg = Release|x64
+		{BF0F139E-E132-416A-8642-CD6F91B7F7AF}.Release|x64.Build.0 = Release|x64
+		{BF0F139E-E132-416A-8642-CD6F91B7F7AF}.Release|x86.ActiveCfg = Release|Win32
+		{BF0F139E-E132-416A-8642-CD6F91B7F7AF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D26251D-6FA3-4F9E-9A9C-CB8BD6F79011}
+	EndGlobalSection
+EndGlobal
